@@ -1,0 +1,9 @@
+GPU model: NVIDIA GeForse GTX 1660 Ti, frequency: 1.5 Ghz, memory: 6 Gb
+CPU model: Intel Core i5 Ice Lake, frequency: 2 Ghz, socket: BGA-1526
+RAM memory: 16 Gb, frequency: 3.4 Ghz
+Motherboard socket: Socket H2
+Mouse name: Razer Naga Pro, is wireless: True
+Keyboard name: HyperX Alloy Origins, has NumLock: True
+Monitor diagonal: 22 inch, frequency: 144
+Cooler frequency: 1400
+Heat dissipation: 10000000
